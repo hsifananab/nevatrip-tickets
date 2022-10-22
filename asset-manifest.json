@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nevatrip-tickets/static/css/main.bf59aea6.css",
+    "main.js": "/nevatrip-tickets/static/js/main.537242ed.js",
+    "index.html": "/nevatrip-tickets/index.html",
+    "main.bf59aea6.css.map": "/nevatrip-tickets/static/css/main.bf59aea6.css.map",
+    "main.537242ed.js.map": "/nevatrip-tickets/static/js/main.537242ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf59aea6.css",
+    "static/js/main.537242ed.js"
+  ]
+}
